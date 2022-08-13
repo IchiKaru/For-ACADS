@@ -2536,7 +2536,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #593e9d;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
@@ -2552,7 +2552,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #bcb243;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3048,7 +3048,6 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 50em;
-			-ms-flex: 1;
 		}
 
 			.spotlights > section > .content > .inner {
