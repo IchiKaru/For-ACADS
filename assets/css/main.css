@@ -140,7 +140,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 400;
-		color: #483949;
+		color: #1a828a;
 	}
 
 	em, i {
@@ -210,7 +210,7 @@ input, select, textarea {
 			display: block;
 			width: 1px;
 			height: 21px;
-			background: rgba(128, 128, 128, 0.2);
+			background: rgba(38, 194, 59, 0.521);
 		}
 
 		hr:before {
@@ -1803,6 +1803,7 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
+			width: 40%;
 			margin: 0 2em 2em 0;
 		}
 
@@ -1935,7 +1936,7 @@ input, select, textarea {
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color: #76efa4;
 				}
 
 /* Form */
@@ -2055,7 +2056,7 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #4f2ad4;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -3135,4 +3136,11 @@ input, select, textarea {
 						margin-bottom: 2em;
 					}
 
+	}
+
+	div.newthing{
+		margin-top: 12px;
+		margin-left: 12px;
+		margin-right: 12px;
+		margin-bottom: 12px
 	}
